@@ -28,5 +28,7 @@ Technical Workflow
    Clean UI Design: Removed gridlines, headers, and field buttons to mimic a standalone software application interface.
 
 Key Insights
+
  -Volatility Analysis: The dashboard clearly highlights the impact of the 2008 Financial Crisis and the 2020 Global Pandemic across diverse economies.
+ 
  -Currency Correlation: Comparative views reveal how exchange rate fluctuations often precede shifts in inflation rates for emerging markets.
