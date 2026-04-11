@@ -1,4 +1,5 @@
 Global Economic Indicators Analysis (2000-2024)
+
 This project focuses on transforming fragmented global economic data into a centralized, interactive decision-making tool. By processing over 21,000 rows of data from the World Bank, I built a dynamic dashboard that allows for real-time comparative analysis of macro-economic health across 217 countries.
 
 Core Metrics Analyzed
